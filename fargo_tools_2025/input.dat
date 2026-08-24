@@ -1,5 +1,5 @@
-1000     #Number of cells in the X direction
-1000     #Number of cells in the Y direction
+500     #Number of cells in the X direction
+500     #Number of cells in the Y direction
 1     #Number of cells in the Z direction
 0       #minimum output file to be transformed
 25       #maximum output file to be transformed
