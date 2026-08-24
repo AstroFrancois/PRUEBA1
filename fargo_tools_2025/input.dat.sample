@@ -1,0 +1,14 @@
+50     #Number of cells in the X direction
+50     #Number of cells in the Y direction
+30     #Number of cells in the Z direction
+0       #minimum output file to be transformed
+238       #maximum output file to be transformed
+1       #size of the jump between output files to be transformed
+-3.141592653589793  #Min value in X direction 
+3.141592653589793   #Max value in X direction 
+0.5     #Min value in Y direction 
+1.5     #Max value in Y direction 
+0.0    #Min value in Z direction 
+0.37836    #Max value in Z direction 
+c       #s for spherical, c for cylindrical, r for cartesian
+
